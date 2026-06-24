@@ -1,0 +1,6 @@
+@Solicitors.Api_HostAddress = http://localhost:5254
+
+GET {{Solicitors.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

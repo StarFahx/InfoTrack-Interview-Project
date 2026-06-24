@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/app/">
+    <Project Path="app/Solicitors.Api/Solicitors.Api.csproj" />
+  </Folder>
+  <Folder Name="/libs/">
+    <Project Path="libs/Solicitors.CacheBuild/Solicitors.CacheBuild.csproj" />
+    <Project Path="libs/Solicitors.Core/Solicitors.Core.csproj" />
+    <Project Path="libs/Solicitors.Data/Solicitors.Data.csproj" />
+    <Project Path="libs/Solicitors.HtmlParsing/Solicitors.HtmlParsing.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Solicitors.Core.Tests/Solicitors.Core.Tests.csproj" />
+  </Folder>
+</Solution>
